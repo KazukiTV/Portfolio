@@ -7,7 +7,8 @@ var contentEN = {
 <>
 <p>
 Hi 👋, I'm <a rel="noreferrer" target="_blank" href="https://github.com/kazuki6891">Kazuki</a>,<br/>
-I am a self taught programmer who has a passion for development and stride for the best quality and efficient code provided to each client. I have 8 years total of professional experience(Earning Income) and 10 years total of experience in development(Learning and broadening my knowledge).
+I am a self taught programmer who has a passion for development and stride for the best quality and efficient code provided to each client. 
+I have 8 years total of professional experience (Earning Income) and 10 years total of experience in development (Learning and broadening my knowledge).
 </p>
 <p>
 Moreover, I like to always learn new things and develop new projects whether it be small and easy or large and complex. I love learning new languages and frameworks and will always find some way to advance my knowledge to the next level.
@@ -46,12 +47,13 @@ See my <a rel="noreferrer" target="_blank" href="https://github.com/kazuki6891">
     "name" : "Contact",
     "content" : 
 <>
-<p>I'm open to work on private or open-source projects, or only talk with you, so feel free to send me a message, I always like to make new connections.</p>
+<p>I'm open to work on private or open-source projects, or only talk with you, so feel free to send me a message,
+ I always like to make new connections.</p>
 <p>Here my contact info:</p>
 <p> 💻 <a rel="noreferrer" target="_blank" href="https://github.com/kazuki6891">My Github</a></p>
 <p> 👔 <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/AlexanderMorales/">My Linkedin</a></p>
 <p> 📞 <a rel="noreferrer" target="_blank" href="Kazuki#6891">My Discord</a></p>
-<p> 📨 <a href="mailto:kazukicommissions@gmail.com">kazukicommissions@gmail.com</a>My Email</p>
+<p> 📨 <a href="mailto:kazukicommissions@gmail.com">kazukicommissions@gmail.com</a></p>
 </>
   }
 }
