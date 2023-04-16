@@ -47,9 +47,7 @@ See my <a rel="noreferrer" target="_blank" href="https://github.com/kazuki6891">
     "name" : "Contact",
     "content" : 
 <>
-<p>I'm open to work on private or open-source projects, or only talk with you, 
-so feel free to send me a message,
-I always like to make new connections.</p>
+<p>I'm open to work on private or open-source projects, so feel free to send me a message, I always like to make new connections.</p>
 <p>Here my contact info:</p>
 <p> 💻 <a rel="noreferrer" target="_blank" href="https://github.com/kazuki6891">My Github</a></p>
 <p> 👔 <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/AlexanderMorales/">My Linkedin</a></p>
