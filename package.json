@@ -13,7 +13,7 @@
     "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "deploy:homepage": "npm run build && gh-pages -d build -o homepage -r https://github.com/Kazuki6891/kazuki6891.github.io/"
+    "deploy:homepage": "npm run build && gh-pages -d build -o homepage -r https://github.com/kazuki6891/kazuki6891.github.io/"
   },
   "eslintConfig": {
     "extends": [
@@ -34,7 +34,7 @@
     ]
   },
   "description": "A portfolio template in ReactJS for Kazuki6891",
-  "homepage": "https://kazuki6891.github.io",
+  "homepage": "https://kazuki6891.github.io/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kazuki6891/portfolio.git"
