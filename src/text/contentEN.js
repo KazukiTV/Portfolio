@@ -28,7 +28,7 @@ See the section about my Development skills to see my projects and languages tha
     "content" : 
 <>
 <p>
-To work with image processing, bots, and automation I used Python. Here's one <a rel="noreferrer" target="_blank" href="https://github.com/raulpy271/telegram_ecommerce">bot</a> that I made, and a <a rel="noreferrer" target="_blank" href="https://github.com/kazuki6891/Fractals-JuliaSet">script</a> where I use image processing to create a fractal.
+To work with image processing, bots, and automation I used Python. Here's one <a rel="noreferrer" target="_blank" href="https://github.com/kazuki6891/telegram_ecommerce">bot</a> that I made, and a <a rel="noreferrer" target="_blank" href="https://github.com/kazuki6891/Fractals-JuliaSet">script</a> where I use image processing to create a fractal.
 </p>
 <p>
 To develop web apps and APIs I used JavaScript, ReactJs, and ExpressJS. Here's a <a rel="noreferrer" target="_blank" href="https://github.com/kazuki6891/DraggableDialog">library</a> that I developed with this language.
