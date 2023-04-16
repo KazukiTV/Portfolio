@@ -14,7 +14,7 @@ I have 8 years total of professional experience (Earning Income) and 10 years to
 Moreover, I like to always learn new things and develop new projects whether it be small and easy or large and complex. I love learning new languages and frameworks and will always find some way to advance my knowledge to the next level.
 </p>
 <p>
-I have developed personal projects in which I work with web apps, APIs, bots, and databases. I used concepts of functional programming, object-oriented programming, REST API, and image processing.
+I have developed personal projects in which I work with web apps, APIs, bots, and databases and multiple libraries and languages. I used concepts of functional programming, object-oriented programming, REST API, and image processing and much more.
 </p>
 <p>
 See the section about my Development skills to see my projects and languages that I used, or reach out to me if you have a interest in working together.
@@ -50,7 +50,7 @@ See my <a rel="noreferrer" target="_blank" href="https://github.com/kazuki6891">
 <p>I'm open to work on private or open-source projects, so feel free to send me a message, I always like to make new connections.</p>
 <p>Here my contact info:</p>
 <p> 💻 <a rel="noreferrer" target="_blank" href="https://github.com/kazuki6891">My Github</a></p>
-<p> 👔 <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/AlexanderMorales/">My Linkedin</a></p>
+<p> 👔 <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/alexander-morales-166b59260/">My Linkedin</a></p>
 <p> 📞 <a rel="noreferrer" target="_blank" href="Kazuki#6891">My Discord</a></p>
 <p> 📨 <a href="mailto:kazukicommissions@gmail.com">kazukicommissions@gmail.com</a></p>
 </>
